@@ -1,4 +1,3 @@
-
 # Villanos
 
 1. Lex Luthor
@@ -7,4 +6,3 @@
 4. Doomsday
 5. Deadshot
 6. Harley Quinn
-7. Harley Quinn
